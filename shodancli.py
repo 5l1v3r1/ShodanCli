@@ -17,7 +17,7 @@ from os import path
 # # # # ##
 
 # KEY API
-SHODAN_API_KEY = "sXXVJBA9liP6x0N1KQkyYxPE407CuXAJ"
+SHODAN_API_KEY = ""
 api = shodan.Shodan(SHODAN_API_KEY)
 
 # BANNER
