@@ -7,7 +7,7 @@ Ferramenta de Busca que utiliza o Shodan.io como seu motor de busca, foi criada 
 
 Faça o clone do projeto:
 ```
-# git clone 
+# git clone https://github.com/ninj4c0d3r/ShodanCli.git
 ```
 
 Agora a instalação de algumas bibliotecas que vamos precisar.
