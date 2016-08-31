@@ -33,7 +33,7 @@ def banner():
 
     
 def helper():
-    print ("By: Jonatas Fil a.k.a Ninj4")
+    print ("By: Jonatas Fil a.k.a pwx")
     print ("usage ./shodancli.py --shodan dork")
     print ""
     
@@ -72,7 +72,7 @@ def shodanSearch(dork):
                 print '[Region] %s' % result['location']['region_code']
                 print '[City] %s' % result['location']['city']
                 print ''
-                response = raw_input('Continue ? [Y/enter]: ')
+                response = raw_input('Continue ? [enter]: ')
                 print ''
                 print ''
     except shodan.APIError, e:
