@@ -33,7 +33,7 @@ def banner():
 
     
 def helper():
-    print ("By: Jonatas Fil a.k.a pwx")
+    print ("By: Jonatas Fil a.k.a dkr")
     print ("usage ./shodancli.py --shodan dork")
     print ""
     
